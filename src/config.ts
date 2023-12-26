@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://tellmin.net/", // replace this with your deployed domain
   author: "TellMin",
   desc: "TellMin's blog.",
-  title: "TellMIn",
+  title: "TellMin",
   // TODO: add your own ogImage
   // ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
